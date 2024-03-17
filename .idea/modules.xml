@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DSA_f.iml" filepath="$PROJECT_DIR$/DSA_f.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/Stacks and Queues.iml" filepath="$PROJECT_DIR$/String/Stacks and Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks&amp;Queues/Stacks&amp;Queues.iml" filepath="$PROJECT_DIR$/Stacks&amp;Queues/Stacks&amp;Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary_search_tree/binary_search_tree.iml" filepath="$PROJECT_DIR$/binary_search_tree/binary_search_tree.iml" />
+    </modules>
+  </component>
+</project>
